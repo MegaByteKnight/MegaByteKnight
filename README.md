@@ -82,9 +82,3 @@ I'm a certified cybersecurity professional with **CompTIA Security+** and **A+**
 - 📧 **Email:** [SawyerVistaHomes@gmail.com](mailto:SawyerVistaHomes@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/brian-sawyer-1b721275](https://www.linkedin.com/in/brian-sawyer-1b721275)
 - 🌐 **Portfolio:** [BrianSawyer.dev](https://www.briansawyer.dev)
-
----
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=MegaByteKnight&show_icons=true&theme=dark" alt="Brian's GitHub stats" />
