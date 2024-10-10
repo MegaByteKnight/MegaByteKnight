@@ -2,20 +2,37 @@
 
 **Cybersecurity Professional | Project Manager | Web Developer**
 
-I'm a certified cybersecurity professional with a strong background in project management and web development. Transitioning from the power utility sector, I'm passionate about protecting digital assets and infrastructure from cyber threats. I'm eager to apply my skills in a SOC team to detect, mitigate, and respond to cyber threats effectively.
+I'm a certified cybersecurity professional with **CompTIA Security+** and **A+** certifications, transitioning from the power utility sector. My focus is on joining a SOC (Security Operations Center) team, where I can apply my skills in network security, incident response, and threat detection. With a strong foundation in project management and web development, I'm eager to protect digital assets and infrastructure from cyber threats.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ComptiaA" alt="CompTIA A+" style="width:60px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="ComptiaSecurity" alt="CompTIA Security+" style="width:60px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/brian-sawyer-1b721275"><img src="https://img.shields.io/badge/-linkedin-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+---
 
-<img src="https://img.shields.io/badge/CompTIA-A%2B-EB1F29?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA A+" />
-<img src="https://img.shields.io/badge/CompTIA-Security%2B-EB1F29?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+" />
+## Certifications
 
+<div>
+    <img src="https://img.shields.io/badge/CompTIA-A%2B-EB1F29?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA A+" />
+    <img src="https://img.shields.io/badge/CompTIA-Security%2B-EB1F29?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+" />
+    <img src="https://img.shields.io/badge/TryHackMe-SOC_Level_1-88CC88?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe SOC Level 1" />
+    <img src="https://img.shields.io/badge/CompTIA-CySA%2B_in_Progress-657D8B?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA CySA+ In Progress" />
+</div>
 
-## Summary
-I am a certified cybersecurity professional with CompTIA Security+ and A+ certifications, transitioning from a project management role in the power utility sector. My focus is on joining a SOC (Security Operations Center) team, where I can apply my skills in network security, incident response, and threat detection. Currently, I'm advancing my expertise by pursuing the CompTIA CySA+ and Jr. Penetration Tester certifications.
+---
 
+## Skills
+
+- **Cybersecurity Tools:** Splunk, Wireshark, Greenbone Vulnerability Manager, Microsoft Sentinel, Firewalls, IDS/IPS
+- **Frameworks & Standards:** NIST, MITRE ATT&CK, ISA/IEC 62443, NERC CIP
+- **Threat Detection:** Incident response, vulnerability assessment, SIEM, threat hunting
+- **Networking:** TCP/IP, DNS, VPNs, network protocols
+- **Programming & Scripting:** Python, PowerShell, Bash, PHP
+- **Web Development:** HTML, CSS, JavaScript
+- **Regulatory Compliance:** PCI DSS, GDPR, HIPAA
+- **Project Management:** Risk assessment, regulatory compliance, team leadership
+- **Soft Skills:** Communication, problem-solving, adaptability
+
+---
 
 ## Projects
+
 ### [SOC Lab Project](https://github.com/MegaByteKnight/SOC-Lab-Project)
 - **Technologies:** Splunk, Python, Firewall Configuration
 - Automated incident response tasks by developing custom scripts.
@@ -32,21 +49,7 @@ I am a certified cybersecurity professional with CompTIA Security+ and A+ certif
 - Created detection rules to identify phishing emails and malicious URLs.
 - Deployed security awareness training modules to educate users on phishing risks.
 
-
-
-
-## Skills
-
-- **Cybersecurity Tools:** Splunk, Wireshark, Greenbone Vulnerability Manager, Microsoft Sentinel
-- **Frameworks & Standards:** NIST, MITRE ATT&CK, ISA/IEC 62443, NERC CIP
-- **Threat Detection:** Incident response, vulnerability assessment, SIEM, threat hunting
-- **Networking:** TCP/IP, DNS, VPNs, network protocols
-- **Programming & Scripting:** Python, PowerShell, Bash, PHP
-- **Web Development:** HTML, CSS, JavaScript
-- **Regulatory Compliance:** PCI DSS, GDPR, HIPAA
-- **Project Management:** Risk assessment, regulatory compliance, team leadership
-- **Soft Skills:** Communication, problem-solving, adaptability
-
+---
 
 ## Tools
 
@@ -61,6 +64,8 @@ I am a certified cybersecurity professional with CompTIA Security+ and A+ certif
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
 </div>
 
+---
+
 ## Fun Facts
 
 - 🔭 I’m currently working on: **Completing my CompTIA CySA+ certification and participating in cybersecurity Capture The Flag (CTF) challenges.**
@@ -68,7 +73,9 @@ I am a certified cybersecurity professional with CompTIA Security+ and A+ certif
 - 👯 I’m looking to collaborate on: **Open-source cybersecurity projects and threat hunting initiatives.**
 - 🤔 I’m looking for help with: **Expanding my professional network within the cybersecurity community.**
 - 💬 Ask me about: **Network security, threat detection, incident response strategies, and secure web development.**
-- ⚡ Fun fact: **When I'm not diving into cybersecurity, I enjoy playing volleyball, scubadiving, and exploring new hiking trails!**
+- ⚡ Fun fact: **When I'm not diving into cybersecurity, I enjoy playing volleyball and exploring new hiking trails!**
+
+---
 
 ## Contact Me
 
@@ -76,6 +83,7 @@ I am a certified cybersecurity professional with CompTIA Security+ and A+ certif
 - 💼 **LinkedIn:** [linkedin.com/in/brian-sawyer-1b721275](https://www.linkedin.com/in/brian-sawyer-1b721275)
 - 🌐 **Portfolio:** [BrianSawyer.dev](https://www.briansawyer.dev)
 
+---
 
 ## GitHub Stats
 
