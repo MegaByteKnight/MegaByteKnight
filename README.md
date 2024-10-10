@@ -81,6 +81,5 @@ I'm a certified cybersecurity professional with **CompTIA Security+** and **A+**
 
 ## Contact Me
 
-- 📧 **Email:** [SawyerVistaHomes@gmail.com](mailto:SawyerVistaHomes@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/brian-sawyer-1b721275](https://www.linkedin.com/in/brian-sawyer-1b721275)
 - 🌐 **Portfolio:** [BrianSawyer.dev](https://www.briansawyer.dev)
