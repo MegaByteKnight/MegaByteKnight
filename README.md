@@ -1,6 +1,6 @@
 # Hey there, I'm Brian Sawyer 👋
 
-***Cybersecurity Professional | Project Manager | Web Developer***
+<h3>Cybersecurity Professional | Project Manager | Web Developer</h3>
 
 I'm a certified cybersecurity professional with **CompTIA Security+** and **A+** certifications, transitioning from the power utility sector. My focus is on joining a SOC (Security Operations Center) team, where I can apply my skills in network security, incident response, and threat detection. With a strong foundation in project management and web development, I'm eager to protect digital assets and infrastructure from cyber threats.
 
