@@ -8,7 +8,7 @@ interested in cybersecurity transitioning from project management in power utili
 ## Objective
 Need content here
 
-<img src="path_to_your_security_plus_badge_image.png" alt="CompTIA Security+" style="width:100px;" />
+<img src="\Security+ Logo.png" alt="CompTIA Security+" style="width:100px;" />
 
 
 | Skills                           | Associated Project            |
