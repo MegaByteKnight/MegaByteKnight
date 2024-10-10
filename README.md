@@ -9,10 +9,10 @@ I'm a certified cybersecurity professional with **CompTIA Security+** and **A+**
 ## Certifications
 
 <div>
-    <img src="https://img.shields.io/badge/CompTIA-A%2B-EB1F29?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA A+" />
-    <img src="https://img.shields.io/badge/CompTIA-Security%2B-EB1F29?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+" />
-    <img src="https://img.shields.io/badge/TryHackMe-SOC_Level_1-88CC88?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe SOC Level 1" />
-    <img src="https://img.shields.io/badge/CompTIA-CySA%2B_in_Progress-657D8B?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA CySA+ In Progress" />
+    <img src="https://img.shields.io/badge/CompTIA-A%2B-EB1F29?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA A+" /> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/CompTIA-Security%2B-EB1F29?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+" /> &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/TryHackMe-SOC_Level_1-88CC88?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe SOC Level 1" /> &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/CISCO-CCNA_*in_Progress*-657D8B?style=for-the-badge&logo=comptia&logoColor=white" alt="CISCO CCNA In Progress" />
 </div>
 
 ---
@@ -20,10 +20,10 @@ I'm a certified cybersecurity professional with **CompTIA Security+** and **A+**
 ## Skills
 
 - **Cybersecurity Tools:** Splunk, Wireshark, Greenbone Vulnerability Manager, Microsoft Sentinel, Firewalls, IDS/IPS
-- **Frameworks & Standards:** NIST, MITRE ATT&CK, ISA/IEC 62443, NERC CIP
+- **Frameworks & Standards:** NIST, MITRE ATT&CK, OSINT
 - **Threat Detection:** Incident response, vulnerability assessment, SIEM, threat hunting
 - **Networking:** TCP/IP, DNS, VPNs, network protocols
-- **Programming & Scripting:** Python, PowerShell, Bash, PHP
+- **Programming & Scripting:** Python, PowerShell
 - **Web Development:** HTML, CSS, JavaScript
 - **Regulatory Compliance:** PCI DSS, GDPR, HIPAA
 - **Project Management:** Risk assessment, regulatory compliance, team leadership
@@ -40,12 +40,12 @@ I'm a certified cybersecurity professional with **CompTIA Security+** and **A+**
 - Implemented firewall rules to block malicious IPs based on SIEM data.
 
 ### [Portfolio Website](https://github.com/MegaByteKnight/Portfolio-Website)
-- **Technologies:** HTML, CSS, JavaScript, PHP
+- **Technologies:** HTML, CSS, JavaScript
 - Developed a responsive and interactive personal website to showcase my projects and skills.
 - Implemented best practices in web security to protect user data.
 
 ### [Phishing Detection Project](https://github.com/MegaByteKnight/Phishing-Detection)
-- **Technologies:** Splunk, Bash Scripting
+- **Technologies:** Splunk
 - Created detection rules to identify phishing emails and malicious URLs.
 - Deployed security awareness training modules to educate users on phishing risks.
 
@@ -54,21 +54,21 @@ I'm a certified cybersecurity professional with **CompTIA Security+** and **A+**
 ## Tools
 
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-5E5E5E?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-5E5E5E?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" /> &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" /> &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" /> &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" /> &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" /> &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" /> &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=Nmap&logoColor=white" /> &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white" /> 
 </div>
 
 ---
 
 ## Fun Facts
 
-- 🔭 I’m currently working on: **Completing my CompTIA CySA+ certification and participating in cybersecurity Capture The Flag (CTF) challenges.**
+- 🔭 I’m currently working on: **Completing my CISCO CCNA certification and participating in TryHackMe Capture The Flag (CTF) challenges.**
 - 🌱 I’m currently learning: **Advanced penetration testing techniques and network defense strategies.**
 - 👯 I’m looking to collaborate on: **Open-source cybersecurity projects and threat hunting initiatives.**
 - 🤔 I’m looking for help with: **Expanding my professional network within the cybersecurity community.**
