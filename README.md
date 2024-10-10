@@ -35,7 +35,7 @@ I am a certified cybersecurity professional transitioning from a project managem
 </div>
 
 ## Projects
-### [SOC Automation Project](https://github.com/MegaByteKnight/SOC-Lab-Project))
+### [SOC Automation Project](https://github.com/MegaByteKnight/SOC-Lab-Project)
 - Developed scripts to automate incident response tasks.
 - Configured a SIEM to trigger alerts and automate response workflows.
 - Implemented firewall rules to block malicious traffic in real-time.
