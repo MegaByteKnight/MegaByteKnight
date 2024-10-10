@@ -35,7 +35,7 @@ I am a certified cybersecurity professional transitioning from a project managem
 </div>
 
 ## Projects
-#### [Detection Lab](something)
+### [SOC-Lab-Project](https://github.com/YourUsername/SOC-Lab-Project)
  
 
 ### [SOC Automation Project](https://github.com/MegaByteKnight/SOC-Lab-Project))
