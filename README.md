@@ -9,9 +9,9 @@ I'm a certified cybersecurity professional with **CompTIA Security+** and **A+**
 ## Certifications
 
 <div>
-    <img src="https://img.shields.io/badge/CompTIA-A%2B-EB1F29?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA A+" /> &nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/CompTIA-Security%2B-EB1F29?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+" /> &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/TryHackMe-SOC_Level_1-88CC88?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe SOC Level 1" /> &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/CompTIA-A%2B-EB1F29?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA A+" /> &nbsp;
+    <img src="https://img.shields.io/badge/CompTIA-Security%2B-EB1F29?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+" /> &nbsp;
+    <img src="https://img.shields.io/badge/TryHackMe-SOC_Level_1-88CC88?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe SOC Level 1" /> &nbsp;
     <img src="https://img.shields.io/badge/CISCO-CCNA_*in_Progress*-657D8B?style=for-the-badge&logo=comptia&logoColor=white" alt="CISCO CCNA In Progress" />
 </div>
 
