@@ -33,7 +33,14 @@ I'm a certified cybersecurity professional with **CompTIA Security+** and **A+**
 
 ## Projects
 
-### [SOC Lab Project](https://github.com/MegaByteKnight/SOC-Lab-Project)
+### [Secure Password Generator](https://github.com/MegaByteKnight/Secure-Password-Generator)
+- **Technologies:** Python
+- Developed a command-line tool to generate secure passwords with customizable length.
+- Ensured each password includes uppercase letters, lowercase letters, digits, and special characters.
+- Implemented password strength evaluation to provide users with feedback on password robustness.
+- Utilized randomization and shuffling to enhance password security and unpredictability.
+
+<!-- ### [SOC Lab Project](https://github.com/MegaByteKnight/SOC-Lab-Project)
 - **Technologies:** Splunk, Python, Firewall Configuration
 - Automated incident response tasks by developing custom scripts.
 - Configured a SIEM to trigger real-time alerts and automated workflows.
@@ -42,12 +49,7 @@ I'm a certified cybersecurity professional with **CompTIA Security+** and **A+**
 ### [Phishing Detection Project](https://github.com/MegaByteKnight/Phishing-Detection)
 - **Technologies:** Splunk
 - Created detection rules to identify phishing emails and malicious URLs.
-- Deployed security awareness training modules to educate users on phishing risks.
-
-### [Portfolio Website](https://github.com/MegaByteKnight/Portfolio-Website)
-- **Technologies:** HTML, CSS, JavaScript
-- Developed a responsive and interactive personal website to showcase my projects and skills.
-- Implemented best practices in web security to protect user data.
+- Deployed security awareness training modules to educate users on phishing risks. -->
 
 ---
 
