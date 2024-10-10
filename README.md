@@ -1,4 +1,4 @@
-# Hey there, I'm Brian Sawyer 👋
+# Hey there, I'm Brian Sawyer 👋   <a href="https://www.linkedin.com/in/brian-sawyer-1b721275"><img src="https://img.shields.io/badge/-linkedin-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" align="right" /></a>
 
 <h3>Cybersecurity Professional | Project Manager | Web Developer</h3>
 
@@ -8,7 +8,7 @@ I'm a certified cybersecurity professional with **CompTIA Security+** and **A+**
 
 ## Certifications
 
-<div>
+<div align="center">
     <img src="https://img.shields.io/badge/CompTIA-A%2B-EB1F29?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA A+" /> &nbsp;
     <img src="https://img.shields.io/badge/CompTIA-Security%2B-EB1F29?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+" /> &nbsp;
     <img src="https://img.shields.io/badge/TryHackMe-SOC_Level_1-88CC88?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe SOC Level 1" /> &nbsp;
@@ -55,16 +55,32 @@ I'm a certified cybersecurity professional with **CompTIA Security+** and **A+**
 
 ## Tools
 
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-5E5E5E?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" /> &nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" /> &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" /> &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" /> &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" /> &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" /> &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=Nmap&logoColor=white" /> &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white" /> 
-</div>
+### SIEM
+<img src="https://img.shields.io/badge/-Microsoft_Sentinel-5E5E5E?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white" />
+
+### Network Analysis
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=Nmap&logoColor=white" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+
+### Endpoint Security
+<img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
+
+### Scripting & Automation
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
+
+### Offensive Security
+<img src="https://img.shields.io/badge/-Burp_Suite-FE7A16?style=for-the-badge&logo=Burp%20Suite&logoColor=white" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-SET_Toolkit-1c761c?style=for-the-badge&logoColor=white" />
+
+### Frameworks
+- **MITRE ATT&CK**
+- **OSINT Pyramid of Pain**
+- **Kill Chains**
+- **Diamond Model**
 
 ---
 
