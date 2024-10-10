@@ -39,15 +39,15 @@ I'm a certified cybersecurity professional with **CompTIA Security+** and **A+**
 - Configured a SIEM to trigger real-time alerts and automated workflows.
 - Implemented firewall rules to block malicious IPs based on SIEM data.
 
-### [Portfolio Website](https://github.com/MegaByteKnight/Portfolio-Website)
-- **Technologies:** HTML, CSS, JavaScript
-- Developed a responsive and interactive personal website to showcase my projects and skills.
-- Implemented best practices in web security to protect user data.
-
 ### [Phishing Detection Project](https://github.com/MegaByteKnight/Phishing-Detection)
 - **Technologies:** Splunk
 - Created detection rules to identify phishing emails and malicious URLs.
 - Deployed security awareness training modules to educate users on phishing risks.
+
+### [Portfolio Website](https://github.com/MegaByteKnight/Portfolio-Website)
+- **Technologies:** HTML, CSS, JavaScript
+- Developed a responsive and interactive personal website to showcase my projects and skills.
+- Implemented best practices in web security to protect user data.
 
 ---
 
