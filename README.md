@@ -40,12 +40,16 @@ I'm a certified cybersecurity professional with **CompTIA Security+** and **A+**
 - Implemented password strength evaluation to provide users with feedback on password robustness.
 - Utilized randomization and shuffling to enhance password security and unpredictability.
 
-<!-- ### [SOC Lab Project](https://github.com/MegaByteKnight/SOC-Lab-Project)
-- **Technologies:** Splunk, Python, Firewall Configuration
-- Automated incident response tasks by developing custom scripts.
-- Configured a SIEM to trigger real-time alerts and automated workflows.
-- Implemented firewall rules to block malicious IPs based on SIEM data.
+### [Elastic SIEM Lab Project](https://github.com/MegaByteKnight/Elastic-SIEM-Lab-Project)
+- **Technologies:** Elastic Defend, Elastic Cloud, Kibana, VirtualBox
+- Set up an Elastic SIEM environment using Elastic Cloud and Kali Linux VM for security monitoring.
+- Installed Elastic Agent to collect and analyze security event logs.
+- Created custom dashboards in Kibana to monitor system activity and visualize Nmap scan data.
+- Configured alerts to notify when specific security events, such as Nmap scans or sudo commands, occurred.
+- Set up email notifications for triggered alerts to streamline incident response.
 
+
+<!-- 
 ### [Phishing Detection Project](https://github.com/MegaByteKnight/Phishing-Detection)
 - **Technologies:** Splunk
 - Created detection rules to identify phishing emails and malicious URLs.
