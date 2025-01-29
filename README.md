@@ -1,20 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=300&multiline=true&width=300&height=110&lines=%3E+User%3A+MegaByteKnight;%3E+Initializing+profile...;%3E+Executing+pentest...;%3E+System+breached!!!)](https://git.io/typing-svg)<a href="https://www.linkedin.com/in/brian-sawyer-1b721275"><img src="https://img.shields.io/badge/-linkedin-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" align="right" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=1000&pause=300&color=29F749&multiline=true&width=300&height=105&lines=%3E+User%3A+MegaByteKnight;%3E+Initializing+profile...;%3E+Executing+pentest...;%3E+System+breached!!!)](https://git.io/typing-svg)
+<img src="https://img.shields.io/badge/-linkedin-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" align="right" /></a>
 
 ## 🎯 Cybersecurity Professional | Project Manager | Web Developer 🎯
-I'm a certified cybersecurity professional, transitioning from the power utility sector. With a strong foundation in network security, incident response, and threat detection, I leverage my Jr. Penetration Tester certification from TryHackMe to identify and exploit vulnerabilities. My goal is to apply my expertise in ethical hacking and vulnerability assessments to strengthen security defenses against evolving cyber threats.
+<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" height=180px align="right"/>
+I'm a certified cybersecurity professional transitioning from the power utility sector. My goal is to apply my expertise in ethical hacking to strengthen security defenses. I specialize in: 
 
-## Certifications
+- Web Application Security, incident response, and threat detection.
+- Ethical hacking and vulnerability assessment.
+- Security operations and log analysis.
 
-<div align="left">
-    <img src="https://img.shields.io/badge/CompTIA-A%2B-EB1F29?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+" /> &nbsp;
-    <img src="https://img.shields.io/badge/CompTIA-Security%2B-EB1F29?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+" /> &nbsp;
-    <img src="https://img.shields.io/badge/TryHackMe-Jr._Penetration_Tester-88CC88?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe SOC Level 1" /> &nbsp;
-    <img src="https://img.shields.io/badge/CISCO-CCNA_*in_Progress*-657D8B?style=for-the-badge&logo=Cisco&logoColor=white" alt="CISCO CCNA In Progress" />
-    <img src="https://tryhackme-badges.s3.amazonaws.com/MegaByteKnight.png" alt="TryHackMe Badge" height=75px />
-    <img src="https://github.com/user-attachments/assets/0e621153-11a7-4723-b6f3-d3cfc9c92beb" height=75px />
-</div>
+## 🎓 Certifications
 
-## Skills
+<img src="https://tryhackme-badges.s3.amazonaws.com/MegaByteKnight.png" alt="TryHackMe Badge" height=80px align="right" />
+<img src="https://img.shields.io/badge/CompTIA-A%2B-EB1F29" alt="CompTIA A+" height="30px" />
+<img src="https://img.shields.io/badge/CompTIA-Security%2B-EB1F29" alt="CompTIA Security+" height="30px" />
+<img src="https://img.shields.io/badge/TryHackMe-Jr._Penetration_Tester-88CC88" alt="TryHackMe SOC Level 1" height="30px" />
+
+## 🛠️ Skills
 
 - **Cybersecurity Tools:** Splunk, Wireshark, Greenbone Vulnerability Manager, Microsoft Sentinel, Firewalls, IDS/IPS
 - **Frameworks & Standards:** NIST, MITRE ATT&CK, OSINT
@@ -26,7 +28,7 @@ I'm a certified cybersecurity professional, transitioning from the power utility
 - **Project Management:** Risk assessment, regulatory compliance, team leadership
 - **Soft Skills:** Communication, problem-solving, adaptability
 
-## Projects
+## 🔥 Projects
 
 ### [Secure Password Generator](https://github.com/MegaByteKnight/Secure-Password-Generator)
 - **Technologies:** Python
@@ -43,14 +45,7 @@ I'm a certified cybersecurity professional, transitioning from the power utility
 - Configured alerts to notify when specific security events, such as Nmap scans or sudo commands, occurred.
 - Set up email notifications for triggered alerts to streamline incident response.
 
-
-<!-- 
-### [Phishing Detection Project](https://github.com/MegaByteKnight/Phishing-Detection)
-- **Technologies:** Splunk
-- Created detection rules to identify phishing emails and malicious URLs.
-- Deployed security awareness training modules to educate users on phishing risks. -->
-
-## Tools
+## 🛠️ Tools
 
 <div align="left">
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-5E5E5E?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" /> &nbsp;&nbsp;
@@ -66,16 +61,12 @@ I'm a certified cybersecurity professional, transitioning from the power utility
     <img src="https://img.shields.io/badge/-SET_Toolkit-1c761c?style=for-the-badge&logoColor=white" />
 </div>
 
-## Fun Facts
+## 🎮 Fun Facts
 
 - 🔭 I’m currently working on: **Completing my CISCO CCNA certification and participating in TryHackMe Capture The Flag (CTF) challenges.**
-- 🌱 I’m currently learning: **Advanced penetration testing techniques and network defense strategies.**
-- 👯 I’m looking to collaborate on: **Open-source cybersecurity projects and threat hunting initiatives.**
 - 🤔 I’m looking for help with: **Expanding my professional network within the cybersecurity community.**
-- 💬 Ask me about: **Network security, threat detection, incident response strategies, and secure web development.**
-- ⚡ Fun fact: **When I'm not diving into cybersecurity, I enjoy playing volleyball and exploring new hiking trails!**
+- ⚡ Fun fact: **When I'm not diving into cybersecurity, I enjoy playing volleyball!**
 
-## Contact Me
+## 🚀 Contact Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/brian-sawyer-1b721275](https://www.linkedin.com/in/brian-sawyer-1b721275)
-- 🌐 **Portfolio:** [BrianSawyer.dev](https://www.briansawyer.dev)
+- 💼 **LinkedIn:** [linkedin.com/in/brian-sawyer-tech](https://www.linkedin.com/in/brian-sawyer-tech)
