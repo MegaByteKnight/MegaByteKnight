@@ -1,21 +1,21 @@
-# Hey there, I'm Brian Sawyer 👋   <a href="https://www.linkedin.com/in/brian-sawyer-1b721275"><img src="https://img.shields.io/badge/-linkedin-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" align="right" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=300&multiline=true&width=300&height=110&lines=%3E+User%3A+MegaByteKnight;%3E+Initializing+profile...;%3E+Executing+pentest...;%3E+System+breached!!!)](https://git.io/typing-svg)<a href="https://www.linkedin.com/in/brian-sawyer-1b721275"><img src="https://img.shields.io/badge/-linkedin-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" align="right" /></a>
 
-<h3>Cybersecurity Professional | Project Manager | Web Developer</h3>
+I'm a certified cybersecurity professional, transitioning from the power utility sector.
 
-I'm a certified cybersecurity professional with **CompTIA Security+** and **A+** certifications, transitioning from the power utility sector. My focus is on joining a SOC (Security Operations Center) team, where I can apply my skills in network security, incident response, and threat detection. With a strong foundation in project management and web development, I'm eager to protect digital assets and infrastructure from cyber threats.
-
----
+<h3>🎯 Cybersecurity Professional | Project Manager | Web Developer</h3>
 
 ## Certifications
 
-<div align="center">
+<div align="left">
     <img src="https://img.shields.io/badge/CompTIA-A%2B-EB1F29?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+" /> &nbsp;
     <img src="https://img.shields.io/badge/CompTIA-Security%2B-EB1F29?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+" /> &nbsp;
-    <img src="https://img.shields.io/badge/TryHackMe-SOC_Level_1-88CC88?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe SOC Level 1" /> &nbsp;
+    <img src="https://img.shields.io/badge/TryHackMe-Jr._Penetration_Tester-88CC88?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe SOC Level 1" /> &nbsp;
     <img src="https://img.shields.io/badge/CISCO-CCNA_*in_Progress*-657D8B?style=for-the-badge&logo=Cisco&logoColor=white" alt="CISCO CCNA In Progress" />
 </div>
-
----
+<div>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/MegaByteKnight.png" alt="TryHackMe Badge" width=30% />
+    <img src="https://www.hackthebox.com/badge/image/2168302" alt="Hack The Box Badge" width=30% >
+</div>
 
 ## Skills
 
