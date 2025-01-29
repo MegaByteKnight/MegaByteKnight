@@ -11,7 +11,7 @@ I'm a certified cybersecurity professional transitioning from the power utility 
 
 ## 🎓 Certifications
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/MegaByteKnight.png" alt="TryHackMe Badge" height=80px align="right" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/MegaByteKnight.png" alt="TryHackMe Badge" height=100px align="right" />
 <img src="https://img.shields.io/badge/CompTIA-A%2B-EB1F29" alt="CompTIA A+" height="30px" />
 <img src="https://img.shields.io/badge/CompTIA-Security%2B-EB1F29" alt="CompTIA Security+" height="30px" />
 <img src="https://img.shields.io/badge/TryHackMe-Jr._Penetration_Tester-88CC88" alt="TryHackMe SOC Level 1" height="30px" />
