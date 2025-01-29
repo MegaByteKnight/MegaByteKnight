@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/-linkedin-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" align="right" /></a>
 
 ## 🎯 Cybersecurity Professional | Project Manager | Web Developer 🎯
-<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" height=120px align="right"/>
+<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" height=140px align="right"/>
 I'm a certified cybersecurity professional transitioning from the power utility sector. My goal is to apply my expertise in ethical hacking to strengthen security defenses. I specialize in: 
 
 - Web Application Security, incident response, and threat detection.
@@ -12,38 +12,9 @@ I'm a certified cybersecurity professional transitioning from the power utility 
 ## 🎓 Certifications
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/MegaByteKnight.png" alt="TryHackMe Badge" height=100px align="right" />
-<img src="https://img.shields.io/badge/CompTIA-A%2B-EB1F29" alt="CompTIA A+" height="30px" />
-<img src="https://img.shields.io/badge/CompTIA-Security%2B-EB1F29" alt="CompTIA Security+" height="30px" />
-<img src="https://img.shields.io/badge/TryHackMe-Jr._Penetration_Tester-88CC88" alt="TryHackMe SOC Level 1" height="30px" />
-
-## 🛠️ Skills
-
-- **Cybersecurity Tools:** Splunk, Wireshark, Greenbone Vulnerability Manager, Microsoft Sentinel, Firewalls, IDS/IPS
-- **Frameworks & Standards:** NIST, MITRE ATT&CK, OSINT
-- **Threat Detection:** Incident response, vulnerability assessment, SIEM, threat hunting
-- **Networking:** TCP/IP, DNS, VPNs, network protocols
-- **Programming & Scripting:** Python, PowerShell
-- **Web Development:** HTML, CSS, JavaScript
-- **Regulatory Compliance:** PCI DSS, GDPR, HIPAA
-- **Project Management:** Risk assessment, regulatory compliance, team leadership
-- **Soft Skills:** Communication, problem-solving, adaptability
-
-## 🔥 Projects
-
-### [Secure Password Generator](https://github.com/MegaByteKnight/Secure-Password-Generator)
-- **Technologies:** Python
-- Developed a command-line tool to generate secure passwords with customizable length.
-- Ensured each password includes uppercase letters, lowercase letters, digits, and special characters.
-- Implemented password strength evaluation to provide users with feedback on password robustness.
-- Utilized randomization and shuffling to enhance password security and unpredictability.
-
-### [Elastic SIEM Lab Project](https://github.com/MegaByteKnight/Elastic-SIEM-Lab-Project)
-- **Technologies:** Elastic Defend, Elastic Cloud, Kibana, VirtualBox
-- Set up an Elastic SIEM environment using Elastic Cloud and Kali Linux VM for security monitoring.
-- Installed Elastic Agent to collect and analyze security event logs.
-- Created custom dashboards in Kibana to monitor system activity and visualize Nmap scan data.
-- Configured alerts to notify when specific security events, such as Nmap scans or sudo commands, occurred.
-- Set up email notifications for triggered alerts to streamline incident response.
+<img src="https://img.shields.io/badge/CompTIA-A%2B-EB1F29" alt="CompTIA A+" height="25px" />
+<img src="https://img.shields.io/badge/CompTIA-Security%2B-EB1F29" alt="CompTIA Security+" height="25px" />
+<img src="https://img.shields.io/badge/TryHackMe-Jr._Penetration_Tester-88CC88" alt="TryHackMe SOC Level 1" height="25px" />
 
 ## 🛠️ Tools
 
