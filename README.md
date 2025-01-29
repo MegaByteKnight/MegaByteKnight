@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/-linkedin-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" align="right" /></a>
 
 ## 🎯 Cybersecurity Professional | Project Manager | Web Developer 🎯
-<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" height=180px align="right"/>
+<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" height=100px align="right"/>
 I'm a certified cybersecurity professional transitioning from the power utility sector. My goal is to apply my expertise in ethical hacking to strengthen security defenses. I specialize in: 
 
 - Web Application Security, incident response, and threat detection.
