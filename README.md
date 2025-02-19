@@ -11,10 +11,29 @@ I'm a certified cybersecurity professional transitioning from the power utility 
 
 ## 🎓 Certifications
 
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; flex-wrap: wrap;">
 
-<img src="https://img.shields.io/badge/CompTIA-A%2B-EB1F29" alt="CompTIA A+" height="25px" />
-<img src="https://img.shields.io/badge/CompTIA-Security%2B-EB1F29" alt="CompTIA Security+" height="25px" />
-<img src="https://img.shields.io/badge/TryHackMe-Jr._Penetration_Tester-88CC88" alt="TryHackMe Jr. Penetration Tester Level 1" height="25px" />
+<!-- Left Side -->
+<div style="text-align: center;">
+    <img src="https://img.shields.io/badge/TryHackMe-Top_1%25_Globally-88CC88" alt="TryHackMe Top 1% Globally" height="25px" /><br>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/MegaByteKnight.png?v=2" alt="MegaByteKnight's TryHackMe Profile Banner" />
+</div>
+
+
+</div>
+
+<!-- Certifications Section -->
+<div style="text-align: center; margin-top: 20px;">
+    <img src="https://img.shields.io/badge/CompTIA-A%2B-EB1F29" alt="CompTIA A+" height="25px" />
+    <img src="https://img.shields.io/badge/CompTIA-Security%2B-EB1F29" alt="CompTIA Security+" height="25px" />
+    <img src="https://img.shields.io/badge/TryHackMe-Pentest+-88CC88" alt="TryhackMe Pentest+" height="25px" />
+    <img src="https://img.shields.io/badge/TryHackMe-Jr._Penetration_Tester-88CC88" alt="TryHackMe Jr. Penetration Tester" height="25px" />
+    <img src="https://img.shields.io/badge/TryHackMe-Cyber_Security_101-88CC88" alt="TryHackMe Cyber Security 101" height="25px" />
+</div>
+
+
+
+
 
 ## 🛠️ Tools
 
