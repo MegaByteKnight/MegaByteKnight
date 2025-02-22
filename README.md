@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/brian-sawyer-tech"><img src="https://img.shields.io/badge/-linkedin-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" align="right" /></a>
 
 ## 🎯 Cybersecurity Professional | Project Manager | Web Developer 🎯
-<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" height=160px align="right"/>
+<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" height=200px align="right"/>
 I'm a certified cybersecurity professional transitioning from the power utility sector. My goal is to apply my expertise in ethical hacking to strengthen security defenses. I specialize in: <br><br>
 
 - Web Application Security, incident response, and threat detection.
@@ -11,10 +11,10 @@ I'm a certified cybersecurity professional transitioning from the power utility 
 - Security operations and log analysis.<br><br>
 
 ## 🎓 Certifications
-<img src="https://tryhackme-badges.s3.amazonaws.com/MegaByteKnight.png?v=2" alt="MegaByteKnight's TryHackMe Profile Banner" align="right" >
+
 <img src="https://img.shields.io/badge/CompTIA-A%2B-EB1F29" alt="CompTIA A+" height="25px"  >
 <img src="https://img.shields.io/badge/CompTIA-Security%2B-EB1F29" alt="CompTIA Security+" height="25px" ><img src="https://img.shields.io/badge/TryHackMe-Top_1%25-a4ea2a" alt="TryHackMe Top 1%" height="25px" align="right">
-<img src="https://img.shields.io/badge/TryHackMe-Pentest+-a4ea2a" alt="TryhackMe Pentest+" height="25px" >
+<img src="https://img.shields.io/badge/TryHackMe-Pentest+-a4ea2a" alt="TryhackMe Pentest+" height="25px" ><img src="https://tryhackme-badges.s3.amazonaws.com/MegaByteKnight.png?v=2" alt="MegaByteKnight's TryHackMe Profile Banner" align="right" >
 <img src="https://img.shields.io/badge/TryHackMe-Jr._Penetration_Tester-a4ea2a" alt="TryHackMe Jr. Penetration Tester" height="25px" >
 <img src="https://img.shields.io/badge/TryHackMe-Cyber_Security_101-a4ea2a" alt="TryHackMe Cyber Security 101" height="25px"  >
 <br>
